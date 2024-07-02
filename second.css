@@ -1,11 +1,17 @@
 .one{
     border: 10px solid red;
     background-color: aqua;
-    color: black;
+    color: rgb(241, 17, 17);
 }
  .three, .two{
     background-color: bisque;
     border: 10px solid red;
     color: burlywood;
 
+}
+#pp{
+    color: black;
+    background-color: ;
+    border: 10px solid rgb(58, 13, 222);
+    padding: 10px;
 }
